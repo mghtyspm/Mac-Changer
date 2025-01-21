@@ -16,8 +16,3 @@ Run the script using Python with the following options:
 Example:  
 ```bash
 python mac_changer.py -i wlan0 -m 12:34:56:78:90:12
-
-
-
-## Disclaimer
-This tool is for educational and ethical purposes only. Use it responsibly and ensure compliance with local laws and regulations.
